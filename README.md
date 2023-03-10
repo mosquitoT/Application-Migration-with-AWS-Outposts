@@ -6,6 +6,7 @@ Based on AWS experience with over a million active customers, we standardized mi
 We understand that every migration is different; however, based on our experience with over a million active customers and helping organizations of all ages, industries, and geographies migrate to the cloud, we have seen a standardized migration process  take shape. This process can generally be broken into three phases of activities: 1) Assess, 2) Mobilize and 3) Migrate and modernize.
 
 migration-process
+
 ![image](https://user-images.githubusercontent.com/86204106/224379007-fa4ca85d-fa7c-4f0e-bd70-a0e6bddec53d.png)
 
 In this workshop we will focus on Migrate & Modernize phase, you will learn how to migrate a fictional application to AWS cloud by:
