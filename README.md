@@ -1,4 +1,7 @@
 # Application-Migration-with-AWS-Outposts
+
+![image](https://user-images.githubusercontent.com/86204106/224379195-679a19e2-4ba9-405b-a628-c7c73cf5267f.png)
+
 Based on AWS experience with over a million active customers, we standardized migration process into three phases of activities:Assess, Mobilize and Migrate&amp;modernize.
 We understand that every migration is different; however, based on our experience with over a million active customers and helping organizations of all ages, industries, and geographies migrate to the cloud, we have seen a standardized migration process  take shape. This process can generally be broken into three phases of activities: 1) Assess, 2) Mobilize and 3) Migrate and modernize.
 
