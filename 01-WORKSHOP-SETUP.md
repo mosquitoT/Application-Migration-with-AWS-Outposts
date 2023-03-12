@@ -13,7 +13,8 @@ Option 1: Simple Deployment
 ![image](https://user-images.githubusercontent.com/86204106/224565318-6ba0e170-c5cb-4b7c-b7cf-7874d48e9d86.png)
 
 When the template is in the CREATE_COMPLETE you can find information about created source environment by going to AWS Console -> CloudFormation, selecting ApplicationMigrationWorkshop stack and going to the Outputs tab. You will see information like on the screenshot below.
-![image](https://user-images.githubusercontent.com/86204106/224565483-13f35baa-a9eb-432d-b206-07fd098f935b.png)
+![image](https://user-images.githubusercontent.com/86204106/224565730-0a9bb492-18aa-4962-a346-b0b0aae51493.png)
+
 
 Now you can review the deployed environment
 
