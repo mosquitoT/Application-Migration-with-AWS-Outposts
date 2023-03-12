@@ -1,4 +1,4 @@
-# Application-Migration-with-AWS-Outposts
+# CloudEndure-Migration-with-AWS-Outposts
 
 ![image](https://user-images.githubusercontent.com/86204106/224379195-679a19e2-4ba9-405b-a628-c7c73cf5267f.png)
 
@@ -12,7 +12,7 @@ migration-process
 In this workshop we will focus on Migrate & Modernize phase, you will learn how to migrate a fictional application to AWS cloud by:
 
 Re-platforming of database with AWS Database Migration Service 
-Re-hosting of webserver with AWS Application Migration Service 
+Re-hosting of webserver with AWS CloudEndure Migration Service 
 Modernization of webserver to containers running on Amazon Elastic Container Service 
 (optional) Improvement of Operation Excellence, Security, Performance Efficiency and Cost Optimization of the deployed architecture by following the Well Architected Framework 
 Modernization of webserver to containers running on Amazon Elastic Container Service 
