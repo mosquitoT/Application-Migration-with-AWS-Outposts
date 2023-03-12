@@ -13,7 +13,8 @@ Benefits of CloudEndure Migration Service include:
 *Application Migration Service is available at no charge for all migrations to AWS for 90 days (2,160 hours). If you do not complete specific server migration within this period, you will be charged per hour you continue replicating that server.
 
 You can learn more about CloudEndure Migration Service for Windows by watching the video below.
-<https://www.youtube.com/watch?v=RDktQTcqW7o>
+(https://www.youtube.com/watch?v=RDktQTcqW7o)
+<iframe width="803" height="480" src="https://www.youtube.com/embed/RDktQTcqW7o" title="Migrating Servers to AWS using CloudEndure Migration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In this lab you will perform re-hosting (also known as Lift and shift migration) of the webserver following the steps below:
 
