@@ -6,11 +6,16 @@ In order to use AWS CloudEndure Migration Service, you must create a Replication
 2. Create an AWS CloudEndure project.
 ![image](https://user-images.githubusercontent.com/86204106/224570266-1a6d9d4b-75d0-4815-a019-6143cd27d759.png)
 
-![image](https://user-images.githubusercontent.com/86204106/224570607-c5877f91-4939-432b-be4b-3ce157f8bbc1.png)
-
 3. Populate Set up CloudEndure Migration Service screen with the following value.
-![image](https://user-images.githubusercontent.com/86204106/224570278-0ccb4602-2c18-45eb-9557-74e0722f22af.png)
 
-This is the subnet where AWS Application Migration Service will create Replication Servers.
+4. Go to [AWS console management](https://us-east-1.console.aws.amazon.com/)
+5. Go to VPC to create the VPC.
+![image](https://user-images.githubusercontent.com/86204106/224571573-3ffc3634-f938-434d-8cf7-82220fb89c45.png)
+
+6. 
+
+7.
+
+This is the subnet where AWS CloudEndure Migration Service will create Replication Servers.
 
 Use default values for other parameters (click on the Info link next to them to understand their purpose).
