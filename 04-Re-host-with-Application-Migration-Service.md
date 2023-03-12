@@ -14,7 +14,9 @@ Benefits of CloudEndure Migration Service include:
 
 You can learn more about CloudEndure Migration Service for Windows by watching the video below.
 (https://www.youtube.com/watch?v=RDktQTcqW7o)
-<iframe width="803" height="480" src="https://www.youtube.com/embed/RDktQTcqW7o" title="Migrating Servers to AWS using CloudEndure Migration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![image](https://user-images.githubusercontent.com/86204106/224568151-fc0dd714-e01c-4d97-b917-9621a171a119.png)(<iframe width="803" height="480" src="https://www.youtube.com/embed/RDktQTcqW7o" title="Migrating Servers to AWS using CloudEndure Migration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
 
 In this lab you will perform re-hosting (also known as Lift and shift migration) of the webserver following the steps below:
 
