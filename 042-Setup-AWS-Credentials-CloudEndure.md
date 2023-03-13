@@ -1,5 +1,4 @@
 Generating the Required AWS Credentials
-https://docs.cloudendure.com/#Generating_and_Using_Your_Credentials/Working_with_AWS_Credentials/Generating_the_Required_AWS_Credentials/Generating_the_Required_AWS_Credentials.htm#Generating_the_Required_AWS_Credentials%3FTocPath%3DNavigation%7CGenerating%2520and%2520Using%2520Your%2520Credentials%7CWorking%2520with%2520AWS%25C2%25A0Credentials%7CGenerating%2520the%2520Required%2520AWS%2520Credentials%7C_____0
 
 To generate the required AWS credentials to use with the CloudEndure User Console, you need to create at least one AWS Identity and Access Management (IAM) user, and assign the proper permission policy to this user. You will obtain an Access key ID and a Secret access key, which are the credentials you need to enter into the CloudEndure User Console.
 
@@ -63,4 +62,5 @@ Creating a new IAM User and generating AWS credentials
 5. Locate the policy you created in the previous Create a Policy for CloudEndure section. You can either search for the policy in the Search box or locate it manually by scrolling through the policy list.
 ![image](https://user-images.githubusercontent.com/86204106/224573852-27ef502b-c6c1-422e-b452-4eba9b4de7fb.png)
 
-
+Reference 
+https://docs.cloudendure.com/#Generating_and_Using_Your_Credentials/Working_with_AWS_Credentials/Generating_the_Required_AWS_Credentials/Generating_the_Required_AWS_Credentials.htm#Generating_the_Required_AWS_Credentials%3FTocPath%3DNavigation%7CGenerating%2520and%2520Using%2520Your%2520Credentials%7CWorking%2520with%2520AWS%25C2%25A0Credentials%7CGenerating%2520the%2520Required%2520AWS%2520Credentials%7C_____0
