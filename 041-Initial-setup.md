@@ -36,6 +36,21 @@ Repeat the action to create 7 subnets. (TVPC-Outpost-pri-a-db,TVPC-Outpost-pri-b
 ![image](https://user-images.githubusercontent.com/86204106/224795411-96d83c65-0f3a-4f59-9cd5-0c798b4f4cf1.png)
 
 
+13. Create the basion server in "Outposts-Basion" subnet
+![image](https://user-images.githubusercontent.com/86204106/224819627-543aa18f-e48c-4805-a837-2d90a3dd1e04.png)
+![image](https://user-images.githubusercontent.com/86204106/224820125-d719f699-dbf7-4948-9033-ea18b865bd3b.png)
+![image](https://user-images.githubusercontent.com/86204106/224820511-71178453-4915-472a-a6c4-e36e9265df14.png)
+![image](https://user-images.githubusercontent.com/86204106/224820856-ad007f20-849f-4b32-9df5-a339c3977d96.png)
+
+14. Once the windows bastion provision ready. Leverage EC2 RDP client to login into Outposts Bastion zone.
+![image](https://user-images.githubusercontent.com/86204106/224823798-fb6eddba-6d74-4be7-a7f1-55a2f2898ccb.png)
+![image](https://user-images.githubusercontent.com/86204106/224824227-df586faa-5b76-4e71-b7c8-f29805689274.png)
+
+
+
+14. 
+
+
 This is the subnet where AWS CloudEndure Migration Service will create Replication Servers.
 
 Use default values for other parameters (click on the Info link next to them to understand their purpose).
