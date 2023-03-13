@@ -18,8 +18,17 @@ In order to use AWS CloudEndure Migration Service, you must create a Replication
 7. Go to VPC to create the Subnet. 
 ![image](https://user-images.githubusercontent.com/86204106/224783169-66ed3986-7ae7-426d-a608-b01239ffe2d3.png)
 
-8. Create the Subnet name(Outposts-basion) and subnet (172.31.5.0/24)
-![image](https://user-images.githubusercontent.com/86204106/224783856-d17852bf-7e55-4307-a324-cd2e2fe2d84b.png)
+8. Create the Subnet name(Outposts-basion)
+![image](https://user-images.githubusercontent.com/86204106/224788386-092cc754-27a6-478a-b325-061ecdfa9120.png)
+Repeat the action to create 7 subnets. (TVPC-Outpost-pri-a-db,TVPC-Outpost-pri-b-db, TVPC-Outpost-pub-a, TVPC-Outpost-pub-b,TVPC-Outpost-pri-a-web, TVPC-Outpost-pri-b-web)
+![image](https://user-images.githubusercontent.com/86204106/224793185-745e45ac-8c48-4966-b87c-39a80d71cdec.png)
+
+9. Create the InternetGateway(OutpostVPC-IGW)
+![image](https://user-images.githubusercontent.com/86204106/224789102-ea9761ea-eec7-4d3e-b464-f4f9f8d349a4.png)
+
+10. Create the route table (outposts-rtb)
+![image](https://user-images.githubusercontent.com/86204106/224790976-10a7eb88-264a-4634-9cbe-c2cb8634f56f.png)
+
 
 This is the subnet where AWS CloudEndure Migration Service will create Replication Servers.
 
