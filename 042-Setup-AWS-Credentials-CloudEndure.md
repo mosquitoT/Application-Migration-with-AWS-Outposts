@@ -64,5 +64,3 @@ Creating a new IAM User and generating AWS credentials
 ![image](https://user-images.githubusercontent.com/86204106/224573852-27ef502b-c6c1-422e-b452-4eba9b4de7fb.png)
 
 
-
-12. 
