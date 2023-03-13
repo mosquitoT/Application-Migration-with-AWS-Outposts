@@ -12,7 +12,7 @@ In order to use AWS CloudEndure Migration Service, you must create a Replication
 5. Go to VPC to create the VPC.
 ![image](https://user-images.githubusercontent.com/86204106/224571573-3ffc3634-f938-434d-8cf7-82220fb89c45.png)
 
-6. Populate Set up and create the VPC by Name (OutpostVPC) and subnet (172.31.0.0/16)
+6. Populate Set up and create the VPC by Name (OutpostVPC) and subnet (172.16-31.0.0/16)
 ![image](https://user-images.githubusercontent.com/86204106/224571722-7e40650d-695a-4db4-bd32-a5bc653db040.png)
 
 7.
