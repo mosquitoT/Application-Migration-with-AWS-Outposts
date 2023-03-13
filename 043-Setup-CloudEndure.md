@@ -22,8 +22,13 @@ If you config, your on-premises server.
 ![image](https://user-images.githubusercontent.com/86204106/224805481-2de68926-9ee9-47cd-bc71-c890228c8191.png)
 
 
-6. Install the CloudEndure agent
+6. Install the CloudEndure agent.
 ![image](https://user-images.githubusercontent.com/86204106/224807412-1d32e28e-6ceb-4e5b-bcbb-1205d24a41e8.png)
 ![image](https://user-images.githubusercontent.com/86204106/224808855-6f59f501-fe70-4a5f-a6fd-8930ee924149.png)
 ![image](https://user-images.githubusercontent.com/86204106/224809133-0a37854d-1c74-4577-b116-852e9c0a8801.png)
+
+7. Once the replication complete, you can enable the "test" action.
+![image](https://user-images.githubusercontent.com/86204106/224816615-a9af99bb-c0a7-4a32-b461-595136137f11.png)
+![image](https://user-images.githubusercontent.com/86204106/224817339-066e933e-1975-49a7-8996-8614d53cda7d.png)
+
 
