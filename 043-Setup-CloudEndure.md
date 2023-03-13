@@ -27,8 +27,11 @@ If you config, your on-premises server.
 ![image](https://user-images.githubusercontent.com/86204106/224808855-6f59f501-fe70-4a5f-a6fd-8930ee924149.png)
 ![image](https://user-images.githubusercontent.com/86204106/224809133-0a37854d-1c74-4577-b116-852e9c0a8801.png)
 
-7. Once the replication complete, you can enable the "test" action.
+7. Once the replication complete, enable the "test" action.
 ![image](https://user-images.githubusercontent.com/86204106/224816615-a9af99bb-c0a7-4a32-b461-595136137f11.png)
-![image](https://user-images.githubusercontent.com/86204106/224817339-066e933e-1975-49a7-8996-8614d53cda7d.png)
+![image](https://user-images.githubusercontent.com/86204106/224817873-e80d5a7a-afe9-4fd2-9b9e-cb0bc1421d9e.png)
+
+8. Once the replication complete, you can enable the "test" action.
+![image](https://user-images.githubusercontent.com/86204106/224818229-2ed44b3d-ce6f-40f6-9b53-340fb39e300d.png)
 
 
