@@ -29,6 +29,12 @@ Repeat the action to create 7 subnets. (TVPC-Outpost-pri-a-db,TVPC-Outpost-pri-b
 10. Create the route table (outposts-rtb)
 ![image](https://user-images.githubusercontent.com/86204106/224790976-10a7eb88-264a-4634-9cbe-c2cb8634f56f.png)
 
+11. Config route tables by actions-> "Edit subnet associations"
+![image](https://user-images.githubusercontent.com/86204106/224794374-6d6a993c-6b11-4490-84ff-20c84ab1dd77.png)
+
+12. Check the Route Tables->"Edit Routes"
+![image](https://user-images.githubusercontent.com/86204106/224795411-96d83c65-0f3a-4f59-9cd5-0c798b4f4cf1.png)
+
 
 This is the subnet where AWS CloudEndure Migration Service will create Replication Servers.
 
