@@ -46,6 +46,7 @@ define('WP_HOME',    'http://TARGET_WEBSERVER_PUBLIC_DNS');
 ==========Sample=========================
 
 define('WP_SITEURL', 'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
+
 define('WP_HOME',    'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
 
 =========================================
