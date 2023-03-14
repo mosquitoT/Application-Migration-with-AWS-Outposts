@@ -1,5 +1,25 @@
 Configure the Webserver to access the target database
 When the Cutover is finished and CloudEndure Migration Service has created a running instance of the Webserver in your AWS account, it's time to update the web application configuration to use your replicated AWS RDS database (created in the Database Migration step).
+
+
+0. Enable VPC Endpoints for SSM connection
+The alternative to using a VPC endpoint is to allow outbound internet access on your managed nodes. In this case, the managed nodes must also allow HTTPS (port 443) outbound traffic to the following endpoints:
+
+ec2messages.region.amazonaws.com
+ssm.region.amazonaws.com
+ssmmessages.region.amazonaws.com
+
+============================================
+com.amazonaws.ap-northeast-1.ec2messages
+com.amazonaws.ap-northeast-1.ssm
+com.amazonaws.ap-northeast-1.ssmmessages
+
+============================================
+![image](https://user-images.githubusercontent.com/86204106/224893650-d3bca85e-17f3-4602-b4cb-780e17d17859.png)
+![image](https://user-images.githubusercontent.com/86204106/224893712-bf77b4ca-66fb-4f21-8158-4c212ae49dc2.png)
+
+
+
 1. Update the Webserver security group
 
 a. Go to AWS Console -> EC2 and select the Webserver on the list
