@@ -33,10 +33,21 @@ DB_HOST - Endpoint of the created RDS instance (from the DMS step)
 DB_USER - the username configured in the Database Migration step
 DB_PASSWORD - the password configured in the Database Migration step
 Also add the following two lines, replacing TARGET_WEBSERVER_PUBLIC_DNS with your Target Webserver EC2 Public DNS (IPv4), to make sure links in your wordpress site point to the new webserver.
+
+
 =========================================
 define('WP_SITEURL', 'http://TARGET_WEBSERVER_PUBLIC_DNS');        
 define('WP_HOME',    'http://TARGET_WEBSERVER_PUBLIC_DNS');
+
 =========================================
+
+
+==========Sample===============================
+define('WP_SITEURL', 'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
+define('WP_HOME',    'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
+
+=========================================
+
 
 Validate the migration
 
