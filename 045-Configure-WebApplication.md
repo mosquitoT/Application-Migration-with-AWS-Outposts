@@ -36,13 +36,15 @@ Also add the following two lines, replacing TARGET_WEBSERVER_PUBLIC_DNS with you
 
 
 =========================================
+
 define('WP_SITEURL', 'http://TARGET_WEBSERVER_PUBLIC_DNS');        
 define('WP_HOME',    'http://TARGET_WEBSERVER_PUBLIC_DNS');
 
 =========================================
 
 
-==========Sample===============================
+==========Sample=========================
+
 define('WP_SITEURL', 'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
 define('WP_HOME',    'http://ec2-34-208-233-184.us-west-2.compute.amazonaws.com');
 
