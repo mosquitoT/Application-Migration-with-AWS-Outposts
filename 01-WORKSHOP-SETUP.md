@@ -1,7 +1,11 @@
 Option 1: Simple Deployment
 1. Click here  to launch the CloudFormation stack.
 
-2. On the Step 1 - Specify template confirm that the URL https://ee-assets-prod-us-east-1.s3.us-east-1.amazonaws.com/modules/migration/v1/migration_workshop_source_template.yml  is entered in the Amazon S3 URL field and press Next.
+2. On the Step 1 - Specify template confirm that below URL
+ 
+https://ee-assets-prod-us-east-1.s3.us-east-1.amazonaws.com/modules/migration/v1/migration_workshop_source_template.yml  
+
+is entered in the Amazon S3 URL field and press Next.
 ![image](https://user-images.githubusercontent.com/86204106/224564455-675cff31-4e50-44d3-a4f4-b733c3736e41.png)
 
 3. On the Step 2 - Specify stack details screen make sure OutpostsMigrationWorkshop is entered in the Stack name field and press Next
